@@ -1,17 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
+# About page
 
-
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <!-- <h1>Hello World!</h1> -->
-    <h1>{{ "Its Me!Mario!" | downcase }}</h1>
-  </body>
-</html>
+This page tells you a little bit about me.
